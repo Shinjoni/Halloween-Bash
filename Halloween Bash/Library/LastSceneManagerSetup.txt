@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Halloween Scenes/Halloween Bash.unity
+  isLoaded: 1
+  isActive: 1
